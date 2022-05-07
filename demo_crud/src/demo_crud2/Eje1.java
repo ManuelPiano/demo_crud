@@ -11,9 +11,9 @@ public class Eje1 {
         
         double ValorUSA=5000, Depreciacion=0.10, Flete=700, Seguro=100;
         
-        System.out.println("Valor del vehiculo en USA: $");
+        System.out.println("Valor del vehículo en USA: $");
         ValorUSA = scan.nextDouble();
-        System.out.println("Depreciacion: $");
+        System.out.println("Depreciación: $");
         Depreciacion = scan.nextDouble();
         System.out.println("Valor del flete: $");
         Flete = scan.nextDouble();
