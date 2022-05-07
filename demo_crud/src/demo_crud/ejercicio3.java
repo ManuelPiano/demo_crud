@@ -14,6 +14,10 @@ public class ejercicio3 {
    int codigoCarrera;
    int numero;
 
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
     public ejercicio3(int numero) {
         this.numero = numero;
     }
