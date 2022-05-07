@@ -22,7 +22,7 @@ public class MainFacturaElectrica {
         System.out.println("La cantidad del multiplicador es :");
         factura.setMultiplicador(leer.nextDouble());
         
-        System.out.println("-------------------------------------------");
+        System.out.println("--------------------------------------------");
         factura1 = factura.valFactura();
         factura2 = factura.consuMens();
         System.out.println(""+factura1);
