@@ -14,6 +14,10 @@ public class ejercicio3 {
    int codigoCarrera;
    int numero;
 
+    public int getNumero() {
+        return numero;
+    }
+
     public void setNumero(int numero) {
         this.numero = numero;
     }
