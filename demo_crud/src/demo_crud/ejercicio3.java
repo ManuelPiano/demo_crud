@@ -12,6 +12,7 @@ public class ejercicio3 {
   int carnet;
   String nombre;
    int codigoCarrera;
+   int numero;
 String registro;
 
     @Override
