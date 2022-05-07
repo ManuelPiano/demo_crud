@@ -13,6 +13,10 @@ public class ejercicio3 {
   String nombre;
    int codigoCarrera;
    int numero;
+
+    public ejercicio3(int numero) {
+        this.numero = numero;
+    }
 String registro;
 
     @Override
