@@ -15,7 +15,7 @@ public class MainFacturaElectrica {
         
         System.out.println("Introduzca la cantidad de días a facturar :");
         factura.setConsumoMen(leer.nextDouble());
-        System.out.println("Introduzca el consumo actual en kwh :");
+        System.out.println("Introduzca el consumo  actual en kwh :");
         factura.setLecActual_kwh(leer.nextDouble());
         System.out.println("Introduzca el consumo anterior en kwh :");
         factura.setLecAnterior_kwh(leer.nextDouble());
