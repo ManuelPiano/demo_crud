@@ -13,7 +13,7 @@ public class MainFacturaElectrica {
         
         Scanner leer = new Scanner(System.in);
         
-        System.out.println("Introduzca la cantidad de dias a facturar :");
+        System.out.println("Introduzca la cantidad de días a facturar :");
         factura.setConsumoMen(leer.nextDouble());
         System.out.println("Introduzca el consumo actual en kwh :");
         factura.setLecActual_kwh(leer.nextDouble());
